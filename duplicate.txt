@@ -1,1 +1,2 @@
 select the duplicate names in a table 
+customer id
